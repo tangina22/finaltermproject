@@ -1,2 +1,2 @@
-# finaltermproject
-this project is about final term project.
+# final-project
+Here is my final project
